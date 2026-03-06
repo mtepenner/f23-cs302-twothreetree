@@ -19,15 +19,15 @@ To compile and run this project, you will need a standard C++ compiler (such as 
    ```sh
    g++ main.cpp animal.cpp twoThreeTree.cpp -o pet_center
 
-```
+   ```
 
 *(Note: You can also use the included `Makefile` if available by simply running `make` in the terminal).*
 3. **Run the executable:**
 
-```sh
-./pet_center
-
-```
+   ```sh
+   ./pet_center
+   
+   ```
 
 ## Usage 🚀
 
