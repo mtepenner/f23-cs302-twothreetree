@@ -22,6 +22,7 @@ To compile and run this project, you will need a standard C++ compiler (such as 
    ```
 
 *(Note: You can also use the included `Makefile` if available by simply running `make` in the terminal).*
+
 3. **Run the executable:**
 
    ```sh
